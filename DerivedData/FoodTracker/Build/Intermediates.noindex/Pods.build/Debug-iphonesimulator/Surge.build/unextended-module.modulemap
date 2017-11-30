@@ -1,0 +1,10 @@
+framework module Surge {
+  umbrella header "Surge-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module Surge.__Swift {
+    exclude header "Surge-Swift.h"
+}

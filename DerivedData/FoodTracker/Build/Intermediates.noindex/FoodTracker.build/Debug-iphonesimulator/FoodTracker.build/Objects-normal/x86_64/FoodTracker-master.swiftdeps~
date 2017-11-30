@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "b1364e4276a40c622de1f232865bd969"
+build_time: [1511928389, 564583000]
+inputs:
+  "/Users/zhujiabin/Desktop/EECS441/FoodTracker/FoodTracker/ViewController.swift": [1511928387, 0]
+  "/Users/zhujiabin/Desktop/EECS441/FoodTracker/FoodTracker/AppDelegate.swift": [1511758390, 0]

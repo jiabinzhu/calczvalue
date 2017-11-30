@@ -1,0 +1,13 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "0c2a832704a571e792dfd40d65be48c8"
+build_time: [1511810861, 737806000]
+inputs:
+  "/Users/zhujiabin/Desktop/EECS441/FoodTracker/Pods/Surge/Source/Arithmetic.swift": [1511762785, 0]
+  "/Users/zhujiabin/Desktop/EECS441/FoodTracker/Pods/Surge/Source/Auxiliary.swift": [1511762785, 0]
+  "/Users/zhujiabin/Desktop/EECS441/FoodTracker/Pods/Surge/Source/Convolution.swift": [1511762785, 0]
+  "/Users/zhujiabin/Desktop/EECS441/FoodTracker/Pods/Surge/Source/Exponential.swift": [1511762785, 0]
+  "/Users/zhujiabin/Desktop/EECS441/FoodTracker/Pods/Surge/Source/FFT.swift": [1511762785, 0]
+  "/Users/zhujiabin/Desktop/EECS441/FoodTracker/Pods/Surge/Source/Hyperbolic.swift": [1511762785, 0]
+  "/Users/zhujiabin/Desktop/EECS441/FoodTracker/Pods/Surge/Source/Matrix.swift": [1511762785, 0]
+  "/Users/zhujiabin/Desktop/EECS441/FoodTracker/Pods/Surge/Source/Power.swift": [1511762785, 0]
+  "/Users/zhujiabin/Desktop/EECS441/FoodTracker/Pods/Surge/Source/Trigonometric.swift": [1511762785, 0]
